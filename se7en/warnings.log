@@ -1,0 +1,1 @@
+Game : (room:3)[R 58] !NewRoom: Cannot run this command, since there was a NewRoom command already queued to run in "room3.asc", line 54
